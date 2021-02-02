@@ -1,0 +1,10 @@
+import turtle
+alex=turtle.Turtle()
+canvas=turtle.Screen()
+canas.titile('my window')
+canas.bgcolor('pink')
+alex.color('red')
+alex.shap('turtle')
+alex.forward(100)
+alex.left(90)
+alex.backward(100)
